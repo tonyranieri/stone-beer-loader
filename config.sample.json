@@ -1,0 +1,6 @@
+{
+    "Locations": [
+        { "name": "Location #1", "url": "https://find.stonebrewing.com/api/location/####" },
+        { "name": "Location #2", "url": "https://find.stonebrewing.com/api/location/####" }
+    ]
+}
